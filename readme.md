@@ -17,7 +17,7 @@
     <img alt="Issues" src="https://img.shields.io/github/issues/Partha11/qsms-builds" />
   </a>
   <a href="https://github.com/yourusername/QSms/blob/main/license.md">
-    <img alt="License" src="https://img.shields.io/github/license/Partha11/qsms-builds" />
+    <img alt="License: Proprietary" src="https://img.shields.io/badge/license-Proprietary-blue.svg" />
   </a>
   <img alt="Android" src="https://img.shields.io/badge/platform-Android-green" />
 </p>
