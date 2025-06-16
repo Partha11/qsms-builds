@@ -44,18 +44,21 @@ You can download the latest APK from the [Releases](https://github.com/Partha11/
 
 ## Roadmap / Upcoming Features
 
-- [ ] **CSV Import**: Upload recipient lists via CSV files.
+- [x] **CSV Import**: Upload recipient lists via CSV files.
+- [x] **Advanced Scheduling**: Weekly/daily recurrence and holiday exclusion.
 - [ ] **Campaign Analytics**: Track delivery, success, and performance stats.
-- [ ] **Advanced Scheduling**: Weekly/daily recurrence and holiday exclusion.
 - [ ] **Smart Filters**: Segment your recipients based on past campaign behavior.
+- [ ] **Purchase Filters**: Filter your past purchases based on certain criteria.
 
 ---
 
 ## Screenshots
 
 <p align="center">
-  <img src="./images/screenshots/01.png" width="300" alt="Home Screen" />
-  <img src="./images/screenshots/02.png" width="300" alt="User Account" />
+  <img src="./images/screenshots/01.png" style="width:22%; max-width:300px; min-width:150px;" />
+  <img src="./images/screenshots/02.png" style="width:22%; max-width:300px; min-width:150px;" />
+  <img src="./images/screenshots/03.png" style="width:22%; max-width:300px; min-width:150px;" />
+  <img src="./images/screenshots/04.png" style="width:22%; max-width:300px; min-width:150px;" />
 </p>
 
 
