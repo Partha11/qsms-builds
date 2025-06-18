@@ -3,6 +3,8 @@ description: Official build releases, updates, and guides for the QSms app — y
 remote_theme: pages-themes/minimal@v0.2.0
 show_downloads: true
 baseurl: ""
+url: https://partha11.github.io/qsms-builds/
+repository: Partha11/qsms-builds
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
