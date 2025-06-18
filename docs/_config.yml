@@ -1,5 +1,6 @@
 title: QSMS Builds
 description: Official build releases, updates, and guides for the QSms app — your solution for reliable SMS campaigns.
+logo: assets/img/logo.png
 remote_theme: pages-themes/minimal@v0.2.0
 show_downloads: true
 baseurl: ""
