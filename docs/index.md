@@ -2,6 +2,12 @@
 layout: default
 ---
 
+{% if site.remote_theme %}
+Theme: {{ site.remote_theme }}
+{% else %}
+NO THEME DETECTED
+{% endif %}
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
