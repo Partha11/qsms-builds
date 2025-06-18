@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/logo.png" alt="QSms Logo" width="120" />
+  <img src="assets/img/logo.png" alt="QSms Logo" width="120" />
 </p>
 
 <h1 align="center">QSms</h1>
