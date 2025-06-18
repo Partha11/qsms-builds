@@ -5,6 +5,8 @@ show_downloads: true
 baseurl: ""
 url: https://partha11.github.io/qsms-builds/
 repository: Partha11/qsms-builds
+theme: minimal
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
+  - jekyll-github-metadata
