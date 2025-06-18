@@ -9,4 +9,3 @@ theme: minimal
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
-  - jekyll-github-metadata
