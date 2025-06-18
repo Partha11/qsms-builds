@@ -15,13 +15,13 @@ Our app is built to streamline your communication efforts, offering a suite of f
 
 Here's a quick overview of the core functionalities available within QSMS:
 
-    - **SMS Campaigns:** Create, manage, and send SMS campaigns efficiently. This includes defining content, recipient groups, and scheduling options.
-    - **Automated Scheduling:** Set your campaigns to send messages at user-defined intervals, ensuring your communication reaches your audience precisely when you want it to.
-    - **Custom Amount per Interval:** Define exactly how many SMS messages to send within each specified interval, giving you granular control over message delivery rates.
-    - **SMS Details & Preview:** Compose your messages with confidence by seeing a live preview of the SMS content as you type.
-    - **Purchase SMS Packages:** Conveniently acquire SMS credits through an integrated in-app purchasing system.
-    - **Number Import via CSV:** Easily upload your recipient lists directly into the app using CSV (Comma Separated Values) files, saving time and minimizing manual data entry.
-    - **Advanced Scheduling:** Utilize sophisticated scheduling options, including weekly/daily recurrence for automated campaigns and the ability to exclude specific dates like holidays.
+- **SMS Campaigns:** Create, manage, and send SMS campaigns efficiently. This includes defining content, recipient groups, and scheduling options.
+- **Automated Scheduling:** Set your campaigns to send messages at user-defined intervals, ensuring your communication reaches your audience precisely when you want it to.
+- **Custom Amount per Interval:** Define exactly how many SMS messages to send within each specified interval, giving you granular control over message delivery rates.
+- **SMS Details & Preview:** Compose your messages with confidence by seeing a live preview of the SMS content as you type.
+- **Purchase SMS Packages:** Conveniently acquire SMS credits through an integrated in-app purchasing system.
+- **Number Import via CSV:** Easily upload your recipient lists directly into the app using CSV (Comma Separated Values) files, saving time and minimizing manual data entry.
+- **Advanced Scheduling:** Utilize sophisticated scheduling options, including weekly/daily recurrence for automated campaigns and the ability to exclude specific dates like holidays.
 
 ## Getting Started
 
