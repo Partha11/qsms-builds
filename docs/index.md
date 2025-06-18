@@ -34,7 +34,7 @@ To get started with **QSMS**, simply follow these steps:
 
 We look forward to assisting you in optimizing your SMS communication experience with **QSMS**.
 
-Need Help?
+## Need Help?
 
 This wiki is your primary resource for understanding and utilizing QSMS. Use the navigation on the left to browse topics, or use the search bar to find specific information.
 
