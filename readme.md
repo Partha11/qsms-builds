@@ -55,10 +55,10 @@ You can download the latest APK from the [Releases](https://github.com/Partha11/
 ## Screenshots
 
 <p align="center">
-  <img src="./images/screenshots/01.png" style="width:22%; max-width:300px; min-width:150px;" />
-  <img src="./images/screenshots/02.png" style="width:22%; max-width:300px; min-width:150px;" />
-  <img src="./images/screenshots/03.png" style="width:22%; max-width:300px; min-width:150px;" />
-  <img src="./images/screenshots/04.png" style="width:22%; max-width:300px; min-width:150px;" />
+  <img src="./assets/img/screenshots/01.png" style="width:22%; max-width:300px; min-width:150px;" />
+  <img src="./assets/img/screenshots/02.png" style="width:22%; max-width:300px; min-width:150px;" />
+  <img src="./assets/img/screenshots/03.png" style="width:22%; max-width:300px; min-width:150px;" />
+  <img src="./assets/img/screenshots/04.png" style="width:22%; max-width:300px; min-width:150px;" />
 </p>
 
 
