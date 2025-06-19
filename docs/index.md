@@ -1,6 +1,9 @@
 ---
-layout: default
 title: Home
+layout: home
+nav_order: 1
+description: Official build releases, updates, and guides for the QSms app — your solution for reliable SMS campaigns.
+permalink: /
 ---
 
 This wiki serves as a comprehensive guide for using **QSMS**, a powerful and versatile tool designed for efficient and targeted communication. Whether you're a new user or looking to optimize your SMS campaigns, you'll find all the information you need here.

@@ -1,7 +1,7 @@
 title: QSMS
 description: Official build releases, updates, and guides for the QSms app — your solution for reliable SMS campaigns.
 logo: /assets/img/logo.png
-remote_theme: just-the-docs/just-the-docs
+theme: just-the-docs
 show_downloads: true
 baseurl: ""
 url: "https://partha11.github.io/qsms-builds"
