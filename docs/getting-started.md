@@ -3,7 +3,6 @@ title: Gettinhg Started
 layout: default
 nav_order: 2
 description: Official build releases, updates, and guides for the QSms app — your solution for reliable SMS campaigns.
-permalink: /
 ---
 
 # Getting Started with QSMS
