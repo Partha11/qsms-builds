@@ -27,7 +27,7 @@ Here's a quick overview of the core functionalities available within QSMS:
 
 Ready to harness the power of QSMS for your communication needs? Our comprehensive guide will walk you through downloading, installing, and logging into the app.
 
-[**Begin Your Journey with QSMS**](getting-started.html)
+[Begin Your Journey with QSMS](getting-started.html)
 
 ## Need Help?
 

@@ -16,8 +16,7 @@ QSMS is an Android application. You can download the latest version of the app a
 
 2.  **Select the Latest Release:** On the releases page, find the latest version (usually at the top) and click on the `.apk` file under the "Assets" section to start the download.
 
-> [!NOTE]
-> Your browser or Android device might show a security warning, as you're downloading an app outside of the Google Play Store. This is normal. You may need to confirm that you wish to keep the file.
+> **Note:** Your browser or Android device might show a security warning, as you're downloading an app outside of the Google Play Store. This is normal. You may need to confirm that you wish to keep the file.
 
 ## Step 2: Install QSMS on Your Android Device
 
@@ -30,8 +29,7 @@ Once the APK file has finished downloading, you'll need to install it.
     * Alternatively, open your device's **File Manager** or **Downloads** app, navigate to your "Downloads" folder, and tap on the `app-release.apk` file.
 3.  **Follow On-Screen Prompts:** Tap "Install" when prompted. The app will then install on your device.
    
-> [!NOTE]
-> Please note than this application currently supports only Android 8.0 and above. Also, IOS is not supported yet.
+> **Note:** Please note than this application currently supports only Android 8.0 and above. Also, IOS is not supported yet.
 
 ## Step 3: Account Approval & Login
 
