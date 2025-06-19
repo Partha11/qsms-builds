@@ -39,6 +39,8 @@ You can download the latest APK from the [Releases](https://github.com/Partha11/
 - **Custom Amount per Interval**: Define how many SMS messages to send at each interval.
 - **SMS Details & Preview**: See a live preview of the SMS content while composing.
 - **Purchase SMS Packages**: In-app purchasing system for sms credits.
+  
+Find out more about these features in the [Wiki](https://partha11.github.io/qsms-builds).
 
 ---
 
