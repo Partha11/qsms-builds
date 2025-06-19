@@ -25,14 +25,9 @@ Here's a quick overview of the core functionalities available within QSMS:
 
 ## Getting Started
 
-To get started with **QSMS**, simply follow these steps:
+Ready to harness the power of QSMS for your communication needs? Our comprehensive guide will walk you through downloading, installing, and logging into the app.
 
-1. Email us at [quorsotech@gmail.com](mailto:quorsotech@gmail.com) for registration.
-2. Follow the instructions provided in the email to complete the registration process.
-3. Log in using your registered email and password.
-4. Setup and manage your SMS campaigns as per your requirements.
-
-We look forward to assisting you in optimizing your SMS communication experience with **QSMS**.
+[**Begin Your Journey with QSMS**](getting-started.html)
 
 ## Need Help?
 
