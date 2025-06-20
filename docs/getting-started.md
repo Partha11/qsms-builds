@@ -7,7 +7,7 @@ description: Official build releases, updates, and guides for the QSms app — y
 
 # Getting Started with QSMS
 
-Welcome to QSMS! This guide will walk you through the simple steps to download, install, and log into the QSMS application. Please remember that QSMS is for approved clients only.
+Welcome to QSMS! This guide will walk you through the simple steps to download, install, and log into the QSMS application.
 
 ## Step 1: Download the QSMS App
 

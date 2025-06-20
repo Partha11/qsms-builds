@@ -5,9 +5,11 @@ nav_order: 3
 description: Official build releases, updates, and guides for the QSms app — your solution for reliable SMS campaigns.
 ---
 
+# Campaign Management in QSMS
+
 QSMS provides a robust set of tools to help you efficiently create, manage, and send your SMS campaigns. This guide covers everything from composing your messages to setting up advanced sending schedules.
 
-### Creating Your First SMS Campaign
+## Creating Your First SMS Campaign
 
 To begin, you'll typically start by creating a new campaign within the QSMS application.
 
@@ -21,7 +23,7 @@ To begin, you'll typically start by creating a new campaign within the QSMS appl
 {: .note }
 At the bottom of the screen, you will find a "Estimated Cost" section. This displays the estimated total cost of your campaign based on the number of recipients and SMS segments.
 
-### Automated Scheduling & Sending Options
+## Automated Scheduling & Sending Options
 
 QSMS offers powerful scheduling features to ensure your messages are delivered at the optimal time, whether it's an immediate send or a complex drip campaign.
 
@@ -30,15 +32,15 @@ QSMS offers powerful scheduling features to ensure your messages are delivered a
 **Automated Scheduling:** For scheduled campaigns, QSMS provides fine grained control. You can go into the app settings and choose the sms submission frequency and chunk size. After you have set these parameters, your sms will be sent at the specified intervals. The minimum allowed time interval is 15 minutes and it can be customized as per your requirements.
 
 {: .note }
-At this moment, the customization of the time interval is not available. It will be available in the next release.
+At this moment, the customization of the time interval is not available. Some predefined intervals are available through the app settings. Custom time intervals will be available in the next release.
 
-### Managing Ongoing Campaigns
+## Managing Ongoing Campaigns
 
 After setting up and initiating your campaigns, QSMS allows you to monitor and manage them.
 
 - **Campaign Dashboard:** Access a dashboard where you can see the status of all your active, scheduled, and completed campaigns.
 - **Pause/Resume Campaigns:** Temporarily stop a running campaign or resume a paused one.
 - **Edit Scheduled Campaigns:** Modify the content or schedule of campaigns that have not yet started sending.
-- **View Basic Stats:** While full analytics are an [upcoming feature](/releases), you will be able to see basic delivery status for your messages.
+- **View Basic Stats:** While full analytics are an [upcoming feature](https://github.com/Partha11/qsms-builds/releases), you will be able to see basic delivery status for your messages.
 
 For more detailed information on managing your recipient lists, please refer to the [Recipient Management (CSV Import)](/recipients.html) page.
