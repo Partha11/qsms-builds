@@ -17,10 +17,8 @@ A CSV file is a plain text file that uses commas to separate values. Each line i
 Before importing, it's crucial to ensure your CSV file is correctly formatted. This helps QSMS accurately read your data and associate it with your recipients.
 Essential Data Fields:
 
-Your CSV file must contain a column for the recipient's phone number. Fields other than phone number will be ignored.
-
-{: .note }
-Future updates may include additional fields for name, email, and other contact details.
+{: .highlight }
+Fields other than phone number will be ignored at this moment. Future updates may include additional fields for name, email, and other contact details.
 
 ## CSV Formatting Guidelines
 
